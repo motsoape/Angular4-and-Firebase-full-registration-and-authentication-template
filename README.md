@@ -6,5 +6,5 @@ Based on https://coursetro.com tuotorial.
 First setup the keys for firebase and create an enviroemnt.ts file in the src folder enviroemnts, in the enviroemnt.spec.ts copy the the commnted code to enviroemnt.ts and fill up the blanks.
 Then npm install node-modules, after use ng server to run on the command line
 
-#Blog
+# Blog
 Look out for further instructions or issues at this blog site *gammer4live.co.za*
